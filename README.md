@@ -1,6 +1,5 @@
-Para ver el funcionamiento e idea original (python)---> https://www.youtube.com/watch?v=EzedMdx6QG4
+# Callflooder
+Full  Tutorial  on Youtube how to perform call flooding attack tutorial
+callflooder.py for https://youtu.be/PBHEdsd6fls
 
-Con este pequeño server se puede hacer llamadas de manera continua mediante internet, sin posibilidad de ser bloqueado.
-
-El servicio es gracias a Twillio. https://www.twilio.com/
 
